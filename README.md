@@ -1,16 +1,11 @@
-## Hi there 👋
+```
+      /\        Ra1nnYT@README.md
+     /  \       ---------
+    /    \      OS: Arch Linux x86_64
+   /      \     Kernel: 6.8.0-arch1-1
+  /   ,,   \    Uptime: 420 hours, 10 min
+ /   |  |   \   Packages: 1200 (pacman)
+/_-''    ''-_\  Shell: bash
+```
 
-<!--
-**Ra1nnYT/Ra1nnYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Generic furry transfem protogen - She/They
